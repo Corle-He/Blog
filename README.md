@@ -14,4 +14,4 @@
 
 ## 自检系列目录
 
-1. [多种方式实现数组去重、扁平化、对比优缺点](https://github.com/Hey-hy/Blog/issues/10)
+1. [多种方式实现数组去重、扁平化](https://github.com/Hey-hy/Blog/issues/10)
