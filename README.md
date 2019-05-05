@@ -11,3 +11,7 @@
 6. [JavaScript深入之执行上下文](https://github.com/Hey-hy/Blog/issues/7)
 7. [JavaScript深入之闭包](https://github.com/Hey-hy/Blog/issues/8)
 8. [JavaScript深入之参数按值传递](https://github.com/Hey-hy/Blog/issues/9)
+
+## 自检系列目录
+
+1. [JavaScirpt深入之从原型到原型链](https://github.com/Hey-hy/Blog/issues/10)
