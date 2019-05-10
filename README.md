@@ -16,3 +16,4 @@
 
 1. [多种方式实现数组去重、扁平化](https://github.com/Hey-hy/Blog/issues/10)
 2. [多种深度拷贝方式的比较](https://github.com/Hey-hy/Blog/issues/11)
+3.[函数柯里化(currying)](https://github.com/Hey-hy/Blog/issues/12)
