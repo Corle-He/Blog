@@ -19,3 +19,4 @@
 3. [函数柯里化(currying)](https://github.com/Hey-hy/Blog/issues/12)
 4. [防抖和节流函数](https://github.com/Hey-hy/Blog/issues/13)
 5. [Promise的实现原理](https://github.com/Hey-hy/Blog/issues/14)
+5. [vue组件间通信六种方式](https://github.com/Hey-hy/Blog/issues/15)
