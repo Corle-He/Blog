@@ -21,3 +21,5 @@
 5. [Promise的实现原理](https://github.com/Hey-hy/Blog/issues/14)
 6. [vue组件间通信六种方式](https://github.com/Hey-hy/Blog/issues/15)
 7. [你知道什么是双向绑定吗？](https://github.com/Hey-hy/Blog/issues/16)
+8. [javaScript算法](https://github.com/Hey-hy/Blog/issues/17)
+9. [JS内存泄漏与垃圾回收机制](https://github.com/Hey-hy/Blog/issues/18)
